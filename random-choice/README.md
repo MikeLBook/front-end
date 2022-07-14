@@ -1,1 +1,1 @@
-Preview: https://tune42.github.io/front-end/random-choice/index.html
+Preview: https://MikeLBook.github.io/front-end/random-choice/index.html

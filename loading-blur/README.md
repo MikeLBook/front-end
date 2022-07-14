@@ -1,1 +1,1 @@
-Preview: https://tune42.github.io/front-end/loading-blur/index.html
+Preview: https://MikeLBook.github.io/front-end/loading-blur/index.html

@@ -1,1 +1,1 @@
-Preview: https://tune42.github.io/front-end/split-landing/index.html
+Preview: https://MikeLBook.github.io/front-end/split-landing/index.html
